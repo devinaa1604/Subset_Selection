@@ -2,7 +2,7 @@
 This aims to run a subset selection process on the data set. The target variable is TOTAL.VALUE. 
 
 R2 plot for different dimension sizes. Notice it is monotonically increasing and cannot be used to pick dimension size.
-![R-Square_Values.png](Images/R-Square_Values.png | =250x250)
+![R-Square_Values.png](Images/R-Square_Values.png =250x250)
 
 The reg.summary$adjr2, regsummary$cp, and reg.summary$bic results. They show you how these measures change with dimension.
 
