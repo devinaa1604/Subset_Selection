@@ -26,9 +26,9 @@ The variable selection plots for the adjr2, Cp, and BIC models
 
 <img src="Images/Variables_Chosen_By_AdjR2.png" width="600" height="300">
 
-<img src="Images/Variables_Chosen_By_Cp.png" width="600" height="300>
+<img src="Images/Variables_Chosen_By_Cp.png" width="600" height="300">
 
-<img src="Images/Variables_Chosen_By_BIC.png" width="600" height="300>
+<img src="Images/Variables_Chosen_By_BIC.png" width="600" height="300">
 
 ## Results for various models
 
@@ -36,13 +36,13 @@ The adjr2 model drops the variables Bedrooms.
 The Cp model drops the variables Rooms, Bedrooms, Remodelold. 
 The BIC model drops the variables Rooms, Bedrooms, Kitchen, Remodelold.
 
-<img src="Images/Results_for_lmfull_model.png" width="600" height="450">
+<img src="Images/Results_for_lmfull_model.png" width="400" height="250">
 
-<img src="Images/Results_for_lmadjr2_model.png" width="600" height="450"">
+<img src="Images/Results_for_lmadjr2_model.png" width="400" height="250">
 
-<img src="Images/Results_for_lmcp_model.png" width="600" height="450">
+<img src="Images/Results_for_lmcp_model.png" width="400" height="250">
 
-<img src="Images/Results_for_lmbic_model.png" width="600" height="450">
+<img src="Images/Results_for_lmbic_model.png" width="400" height="250">
 
 ## Final Prediction using the validation dataset
 
