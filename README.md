@@ -36,13 +36,13 @@ The adjr2 model drops the variables Bedrooms.
 The Cp model drops the variables Rooms, Bedrooms, Remodelold. 
 The BIC model drops the variables Rooms, Bedrooms, Kitchen, Remodelold.
 
-<img src="Images/Results_for_lmfull_model.png" width="400" height="250">
+<img src="Images/Results_for_lmfull_model.png" width="300" height="250">
 
-<img src="Images/Results_for_lmadjr2_model.png" width="400" height="250">
+<img src="Images/Results_for_lmadjr2_model.png" width="300" height="250">
 
-<img src="Images/Results_for_lmcp_model.png" width="400" height="250">
+<img src="Images/Results_for_lmcp_model.png" width="300" height="250">
 
-<img src="Images/Results_for_lmbic_model.png" width="400" height="250">
+<img src="Images/Results_for_lmbic_model.png" width="300" height="250">
 
 ## Final Prediction using the validation dataset
 
