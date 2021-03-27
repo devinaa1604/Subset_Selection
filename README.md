@@ -22,19 +22,21 @@ The optimal dimension for the BIC model is 9.
 <img src="Images/BIC.png" width="600" height="450">
 
 ## Variable Selection
-The variable selection plots for the adjr2, Cp, and BIC models
+The variable selection plots for the adjr2, Cp, and BIC models. 
+
+The adjr2 model drops the variables Bedrooms. 
 
 <img src="Images/Variables_Chosen_By_AdjR2.png" width="600" height="300">
 
+The Cp model drops the variables Rooms, Bedrooms, Remodelold. 
+
 <img src="Images/Variables_Chosen_By_Cp.png" width="600" height="300">
+
+The BIC model drops the variables Rooms, Bedrooms, Kitchen, Remodelold.
 
 <img src="Images/Variables_Chosen_By_BIC.png" width="600" height="300">
 
 ## Results for various models
-
-The adjr2 model drops the variables Bedrooms. 
-The Cp model drops the variables Rooms, Bedrooms, Remodelold. 
-The BIC model drops the variables Rooms, Bedrooms, Kitchen, Remodelold.
 
 <img src="Images/Results_for_lmfull_model.png" width="300" height="250">
 
