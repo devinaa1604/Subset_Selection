@@ -7,12 +7,16 @@ R2 plot for different dimension sizes. Notice it is monotonically increasing and
 
 <img src="Images/R-Square_Values.png" width="600" height="450">
 
-
-The reg.summary$adjr2, regsummary$cp, and reg.summary$bic results. They show you how these measures change with dimension.
-
+## Changing Dimensions
 The plots of RSS, Adjusted RSq, Cp and BIC as a function of dimension.
+<img src="Images/Adjusted_R-Square.png" width="500" height="500">
+<img src="Images/Cp.png" width="500" height="500">
+<img src="Images/BIC.png" width="500" height="500">
 
 The variable selection plots for the adjr2, Cp, and BIC models
+<img src="Images/Variables_Chosen_By_AdjR2.png" width="500" height="500">
+<img src="Images/Variables_Chosen_By_Cp.png" width="500" height="500">
+<img src="Images/Variables_Chosen_By_BIC.png" width="500" height="500">
 
 ## Results
 
@@ -21,5 +25,10 @@ The Cp model drops the variables Rooms, Bedrooms, Remodelold.
 The BIC model drops the variables Rooms, Bedrooms, Kitchen, Remodelold.
 
 Results for various models
+<img src="Images/Results_for_lmfull_model.png" width="500" height="500">
+<img src="Images/Results_for_lmadjr2_model.png" width="500" height="500">
+<img src="Images/Results_for_lmcp_model.png" width="500" height="500">
+<img src="Images/Results_for_lmbic_model.png" width="500" height="500">
 
 Final Prediction using the validation dataset
+<img src="Images/Prediction_Results.png" width="500" height="500">
