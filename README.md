@@ -50,4 +50,4 @@ The BIC model drops the variables Rooms, Bedrooms, Kitchen, Remodelold.
 
 <img src="Images/Prediction_Results.png" width="600" height="500">
 
-Therefore the best subset model is the Cp model. It has the lowest RMSE, MAE, and MAPE. It contains the explanatory variables LOT.SQRT, YR.BUILD, GROSS.AREA, LIVING.AREA, FLOORS, FULL.BATH, HALF.BATH, KITCHEN, FIREPLACE, REMODELRecent(i.e. leaves out ROOMS, BEDROOMS, REMODELOld). 
+> Therefore the best subset model is the Cp model. It has the lowest RMSE, MAE, and MAPE. It contains the explanatory variables LOT.SQRT, YR.BUILD, GROSS.AREA, LIVING.AREA, FLOORS, FULL.BATH, HALF.BATH, KITCHEN, FIREPLACE, REMODELRecent(i.e. leaves out ROOMS, BEDROOMS, REMODELOld). 
